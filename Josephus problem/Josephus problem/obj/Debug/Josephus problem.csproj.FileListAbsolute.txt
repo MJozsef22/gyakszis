@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Michnay Jozsef\Josephus problem\Josephus problem\bin\Debug\Josephus problem.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\Josephus problem\Josephus problem\bin\Debug\Josephus problem.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\Josephus problem\Josephus problem\bin\Debug\Josephus problem.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\Josephus problem\Josephus problem\obj\Debug\Josephus problem.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\Josephus problem\Josephus problem\obj\Debug\Josephus problem.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\Josephus problem\Josephus problem\obj\Debug\Josephus problem.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\Josephus problem\Josephus problem\obj\Debug\Josephus problem.pdb

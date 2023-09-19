@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Michnay Jozsef\Change_elements\Change_elements\bin\Debug\Change_elements.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\Change_elements\Change_elements\bin\Debug\Change_elements.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\Change_elements\Change_elements\bin\Debug\Change_elements.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\Change_elements\Change_elements\obj\Debug\Change_elements.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\Change_elements\Change_elements\obj\Debug\Change_elements.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\Change_elements\Change_elements\obj\Debug\Change_elements.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\Change_elements\Change_elements\obj\Debug\Change_elements.pdb
