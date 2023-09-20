@@ -1,0 +1,8 @@
+D:\gyakszis\Recursive Digit Sum\Recursive Digit Sum\bin\Debug\Recursive Digit Sum.exe.config
+D:\gyakszis\Recursive Digit Sum\Recursive Digit Sum\bin\Debug\Recursive Digit Sum.exe
+D:\gyakszis\Recursive Digit Sum\Recursive Digit Sum\bin\Debug\Recursive Digit Sum.pdb
+D:\gyakszis\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\Recursive Digit Sum.csproj.AssemblyReference.cache
+D:\gyakszis\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\Recursive Digit Sum.csproj.SuggestedBindingRedirects.cache
+D:\gyakszis\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\Recursive Digit Sum.csproj.CoreCompileInputs.cache
+D:\gyakszis\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\Recursive Digit Sum.exe
+D:\gyakszis\Recursive Digit Sum\Recursive Digit Sum\obj\Debug\Recursive Digit Sum.pdb
