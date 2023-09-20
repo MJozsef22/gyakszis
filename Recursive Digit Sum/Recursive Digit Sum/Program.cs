@@ -20,7 +20,7 @@ namespace Recursive_Digit_Sum
 
         public static int superDigit(string n,int k) 
         {
-            if (n.Length == 1)
+            if (n.Length == 1)//stop elem
             {
                 return int.Parse(n);
             }
@@ -29,12 +29,12 @@ namespace Recursive_Digit_Sum
             double initialSum = 0;
             foreach (char digit in n)
             {
-                initialSum += (digit - '0'); 
+                initialSum += (digit - '0'); //char convertálás int("tipussá") hogy összetudjunk adni
             }
             initialSum *= k;
 
             
-            return superDigit(initialSum.ToString(), 1);
+            return superDigit(initialSum.ToString(), 1);//rekurzív számolás
         }
     }
 }
