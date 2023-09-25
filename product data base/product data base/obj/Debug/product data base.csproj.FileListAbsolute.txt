@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\product data base\product data base\bin\Debug\product data base.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\product data base\product data base\bin\Debug\product data base.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\product data base\product data base\bin\Debug\product data base.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\product data base\product data base\obj\Debug\product data base.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\product data base\product data base\obj\Debug\product data base.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\product data base\product data base\obj\Debug\product data base.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\product data base\product data base\obj\Debug\product data base.pdb

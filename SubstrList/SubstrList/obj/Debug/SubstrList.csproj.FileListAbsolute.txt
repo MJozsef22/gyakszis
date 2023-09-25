@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\SubstrList\SubstrList\obj\Debug\SubstrList.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\SubstrList\SubstrList\obj\Debug\SubstrList.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\SubstrList\SubstrList\bin\Debug\SubstrList.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\SubstrList\SubstrList\bin\Debug\SubstrList.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\SubstrList\SubstrList\bin\Debug\SubstrList.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\SubstrList\SubstrList\obj\Debug\SubstrList.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\SubstrList\SubstrList\obj\Debug\SubstrList.pdb

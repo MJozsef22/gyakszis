@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\largest prime factor\largest prime factor\bin\Debug\largest prime factor.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\largest prime factor\largest prime factor\bin\Debug\largest prime factor.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\largest prime factor\largest prime factor\bin\Debug\largest prime factor.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\largest prime factor\largest prime factor\obj\Debug\largest prime factor.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\largest prime factor\largest prime factor\obj\Debug\largest prime factor.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\largest prime factor\largest prime factor\obj\Debug\largest prime factor.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\largest prime factor\largest prime factor\obj\Debug\largest prime factor.pdb

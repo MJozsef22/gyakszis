@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\garbage\garbage\bin\Debug\garbage.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\garbage\garbage\bin\Debug\garbage.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\garbage\garbage\bin\Debug\garbage.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\garbage\garbage\obj\Debug\garbage.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\garbage\garbage\obj\Debug\garbage.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\garbage\garbage\obj\Debug\garbage.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\garbage\garbage\obj\Debug\garbage.pdb

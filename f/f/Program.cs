@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlTypes;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,22 +12,28 @@ namespace f
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Factorial(120));
+            
+            
+
+            Console.WriteLine(RFactorial(100));
+
             Console.ReadKey();
         }
 
-        public static double Factorial(int num)
+        public static BigInteger RFactorial(int number)
         {
-            
-            if (num == 0)
+
+            if (number == 0)
+
             {
 
                 return 1;
-            }
-            else if (num == 1)
-            { return num ; }
 
-            return num * Factorial(num-1);
+            }
+
+            return number * RFactorial(number - 1);
         }
+
+       
     }
 }

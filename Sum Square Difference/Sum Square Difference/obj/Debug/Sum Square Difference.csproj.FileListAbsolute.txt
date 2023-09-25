@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Sum Square Difference\Sum Square Difference\bin\Debug\Sum Square Difference.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Sum Square Difference\Sum Square Difference\bin\Debug\Sum Square Difference.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Sum Square Difference\Sum Square Difference\bin\Debug\Sum Square Difference.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Sum Square Difference\Sum Square Difference\obj\Debug\Sum Square Difference.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Sum Square Difference\Sum Square Difference\obj\Debug\Sum Square Difference.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Sum Square Difference\Sum Square Difference\obj\Debug\Sum Square Difference.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Sum Square Difference\Sum Square Difference\obj\Debug\Sum Square Difference.pdb

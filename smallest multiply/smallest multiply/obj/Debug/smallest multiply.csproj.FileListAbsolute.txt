@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\smallest multiply\smallest multiply\bin\Debug\smallest multiply.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\smallest multiply\smallest multiply\bin\Debug\smallest multiply.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\smallest multiply\smallest multiply\bin\Debug\smallest multiply.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\smallest multiply\smallest multiply\obj\Debug\smallest multiply.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\smallest multiply\smallest multiply\obj\Debug\smallest multiply.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\smallest multiply\smallest multiply\obj\Debug\smallest multiply.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\smallest multiply\smallest multiply\obj\Debug\smallest multiply.pdb

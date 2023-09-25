@@ -29,7 +29,7 @@ namespace Rotatematrix
 
             foreach (var item in RotateMatrix(matrix))
             {
-                Console.WriteLine(string.Join(" ", item));
+                Console.WriteLine(string.Join("; ", item));
                 Console.WriteLine();
             }
 

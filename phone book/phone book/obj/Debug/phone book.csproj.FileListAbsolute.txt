@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\phone book\phone book\bin\Debug\phone book.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\phone book\phone book\bin\Debug\phone book.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\phone book\phone book\bin\Debug\phone book.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\phone book\phone book\obj\Debug\phone book.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\phone book\phone book\obj\Debug\phone book.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\phone book\phone book\obj\Debug\phone book.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\phone book\phone book\obj\Debug\phone book.pdb

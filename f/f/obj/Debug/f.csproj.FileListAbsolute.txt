@@ -5,3 +5,10 @@ C:\Users\tanulo\Desktop\Michnay Jozsef\f\f\obj\Debug\f.csproj.AssemblyReference.
 C:\Users\tanulo\Desktop\Michnay Jozsef\f\f\obj\Debug\f.csproj.CoreCompileInputs.cache
 C:\Users\tanulo\Desktop\Michnay Jozsef\f\f\obj\Debug\f.exe
 C:\Users\tanulo\Desktop\Michnay Jozsef\f\f\obj\Debug\f.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\f\f\bin\Debug\f.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\f\f\bin\Debug\f.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\f\f\bin\Debug\f.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\f\f\obj\Debug\f.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\f\f\obj\Debug\f.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\f\f\obj\Debug\f.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\f\f\obj\Debug\f.pdb

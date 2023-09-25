@@ -23,7 +23,11 @@ namespace DiagonalMatrix
             {
                 for (int j = 0; j < temp.GetLength(1); j++)
                 {
-                    if (i==j)
+                    if (i+j == size-1)
+                    {
+                        temp[i, j] = 1;
+                    }
+                    else if (i==j)
                     {
                         temp[i, j] = 1;
                     }
