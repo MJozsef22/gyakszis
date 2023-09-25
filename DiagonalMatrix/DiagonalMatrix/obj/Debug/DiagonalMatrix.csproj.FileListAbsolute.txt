@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\DiagonalMatrix\DiagonalMatrix\bin\Debug\DiagonalMatrix.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\DiagonalMatrix\DiagonalMatrix\bin\Debug\DiagonalMatrix.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\DiagonalMatrix\DiagonalMatrix\bin\Debug\DiagonalMatrix.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\DiagonalMatrix\DiagonalMatrix\obj\Debug\DiagonalMatrix.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\DiagonalMatrix\DiagonalMatrix\obj\Debug\DiagonalMatrix.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\DiagonalMatrix\DiagonalMatrix\obj\Debug\DiagonalMatrix.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\DiagonalMatrix\DiagonalMatrix\obj\Debug\DiagonalMatrix.pdb

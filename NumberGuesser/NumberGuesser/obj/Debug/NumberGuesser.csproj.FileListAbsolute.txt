@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb

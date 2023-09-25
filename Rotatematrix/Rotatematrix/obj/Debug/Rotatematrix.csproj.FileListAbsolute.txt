@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Rotatematrix\Rotatematrix\bin\Debug\Rotatematrix.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Rotatematrix\Rotatematrix\bin\Debug\Rotatematrix.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Rotatematrix\Rotatematrix\bin\Debug\Rotatematrix.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Rotatematrix\Rotatematrix\obj\Debug\Rotatematrix.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Rotatematrix\Rotatematrix\obj\Debug\Rotatematrix.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Rotatematrix\Rotatematrix\obj\Debug\Rotatematrix.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Rotatematrix\Rotatematrix\obj\Debug\Rotatematrix.pdb

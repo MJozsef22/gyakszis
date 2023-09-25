@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Uniqeu items\Uniqeu items\bin\Debug\Uniqeu items.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Uniqeu items\Uniqeu items\bin\Debug\Uniqeu items.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Uniqeu items\Uniqeu items\bin\Debug\Uniqeu items.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Uniqeu items\Uniqeu items\obj\Debug\Uniqeu items.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Uniqeu items\Uniqeu items\obj\Debug\Uniqeu items.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Uniqeu items\Uniqeu items\obj\Debug\Uniqeu items.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Uniqeu items\Uniqeu items\obj\Debug\Uniqeu items.pdb

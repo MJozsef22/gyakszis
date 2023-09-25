@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Matching Indexes\Matching Indexes\bin\Debug\Matching Indexes.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Matching Indexes\Matching Indexes\bin\Debug\Matching Indexes.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Matching Indexes\Matching Indexes\bin\Debug\Matching Indexes.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Matching Indexes\Matching Indexes\obj\Debug\Matching Indexes.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Matching Indexes\Matching Indexes\obj\Debug\Matching Indexes.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Matching Indexes\Matching Indexes\obj\Debug\Matching Indexes.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Matching Indexes\Matching Indexes\obj\Debug\Matching Indexes.pdb
