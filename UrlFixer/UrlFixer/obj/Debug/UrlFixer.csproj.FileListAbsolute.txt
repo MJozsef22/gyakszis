@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\UrlFixer\UrlFixer\bin\Debug\UrlFixer.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\UrlFixer\UrlFixer\bin\Debug\UrlFixer.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\UrlFixer\UrlFixer\bin\Debug\UrlFixer.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\UrlFixer\UrlFixer\obj\Debug\UrlFixer.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\UrlFixer\UrlFixer\obj\Debug\UrlFixer.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\UrlFixer\UrlFixer\obj\Debug\UrlFixer.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\UrlFixer\UrlFixer\obj\Debug\UrlFixer.pdb

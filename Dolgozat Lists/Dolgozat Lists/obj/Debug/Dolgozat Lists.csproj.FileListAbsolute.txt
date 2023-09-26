@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Dolgozat Lists\Dolgozat Lists\bin\Debug\Dolgozat Lists.exe.config
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Dolgozat Lists\Dolgozat Lists\bin\Debug\Dolgozat Lists.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Dolgozat Lists\Dolgozat Lists\bin\Debug\Dolgozat Lists.pdb
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Dolgozat Lists\Dolgozat Lists\obj\Debug\Dolgozat Lists.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Dolgozat Lists\Dolgozat Lists\obj\Debug\Dolgozat Lists.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Dolgozat Lists\Dolgozat Lists\obj\Debug\Dolgozat Lists.exe
+C:\Users\tanulo\Desktop\Michnay Jozsef\gyakszis\Dolgozat Lists\Dolgozat Lists\obj\Debug\Dolgozat Lists.pdb
