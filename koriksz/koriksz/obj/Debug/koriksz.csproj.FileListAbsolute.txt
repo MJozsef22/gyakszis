@@ -1,0 +1,10 @@
+C:\Users\Diák\Desktop\Michnay József\gyakszis\koriksz\koriksz\bin\Debug\koriksz.exe.config
+C:\Users\Diák\Desktop\Michnay József\gyakszis\koriksz\koriksz\bin\Debug\koriksz.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\koriksz\koriksz\bin\Debug\koriksz.pdb
+C:\Users\Diák\Desktop\Michnay József\gyakszis\koriksz\koriksz\obj\Debug\koriksz.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\koriksz\koriksz\obj\Debug\koriksz.Form1.resources
+C:\Users\Diák\Desktop\Michnay József\gyakszis\koriksz\koriksz\obj\Debug\koriksz.Properties.Resources.resources
+C:\Users\Diák\Desktop\Michnay József\gyakszis\koriksz\koriksz\obj\Debug\koriksz.csproj.GenerateResource.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\koriksz\koriksz\obj\Debug\koriksz.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\koriksz\koriksz\obj\Debug\koriksz.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\koriksz\koriksz\obj\Debug\koriksz.pdb

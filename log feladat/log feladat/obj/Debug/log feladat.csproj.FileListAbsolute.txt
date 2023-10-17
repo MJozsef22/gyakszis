@@ -1,0 +1,7 @@
+C:\Users\Diák\Desktop\Michnay József\gyakszis\log feladat\log feladat\bin\Debug\log feladat.exe.config
+C:\Users\Diák\Desktop\Michnay József\gyakszis\log feladat\log feladat\bin\Debug\log feladat.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\log feladat\log feladat\bin\Debug\log feladat.pdb
+C:\Users\Diák\Desktop\Michnay József\gyakszis\log feladat\log feladat\obj\Debug\log feladat.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\log feladat\log feladat\obj\Debug\log feladat.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\log feladat\log feladat\obj\Debug\log feladat.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\log feladat\log feladat\obj\Debug\log feladat.pdb
