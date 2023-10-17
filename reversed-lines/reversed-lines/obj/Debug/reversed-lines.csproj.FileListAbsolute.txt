@@ -1,0 +1,7 @@
+C:\Users\Diák\Desktop\Michnay József\gyakszis\reversed-lines\reversed-lines\bin\Debug\reversed-lines.exe.config
+C:\Users\Diák\Desktop\Michnay József\gyakszis\reversed-lines\reversed-lines\bin\Debug\reversed-lines.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\reversed-lines\reversed-lines\bin\Debug\reversed-lines.pdb
+C:\Users\Diák\Desktop\Michnay József\gyakszis\reversed-lines\reversed-lines\obj\Debug\reversed-lines.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\reversed-lines\reversed-lines\obj\Debug\reversed-lines.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\reversed-lines\reversed-lines\obj\Debug\reversed-lines.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\reversed-lines\reversed-lines\obj\Debug\reversed-lines.pdb

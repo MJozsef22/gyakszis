@@ -1,0 +1,7 @@
+C:\Users\Diák\Desktop\Michnay József\gyakszis\betelepito\betelepito\bin\Debug\betelepito.exe.config
+C:\Users\Diák\Desktop\Michnay József\gyakszis\betelepito\betelepito\bin\Debug\betelepito.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\betelepito\betelepito\bin\Debug\betelepito.pdb
+C:\Users\Diák\Desktop\Michnay József\gyakszis\betelepito\betelepito\obj\Debug\betelepito.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\betelepito\betelepito\obj\Debug\betelepito.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\betelepito\betelepito\obj\Debug\betelepito.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\betelepito\betelepito\obj\Debug\betelepito.pdb

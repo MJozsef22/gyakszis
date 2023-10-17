@@ -1,0 +1,7 @@
+C:\Users\Diák\Desktop\Michnay József\gyakszis\encrypt\encrypt\bin\Debug\encrypt.exe.config
+C:\Users\Diák\Desktop\Michnay József\gyakszis\encrypt\encrypt\bin\Debug\encrypt.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\encrypt\encrypt\bin\Debug\encrypt.pdb
+C:\Users\Diák\Desktop\Michnay József\gyakszis\encrypt\encrypt\obj\Debug\encrypt.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\encrypt\encrypt\obj\Debug\encrypt.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\encrypt\encrypt\obj\Debug\encrypt.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\encrypt\encrypt\obj\Debug\encrypt.pdb
