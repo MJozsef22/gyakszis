@@ -1,0 +1,7 @@
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Lottery\Lottery\obj\Debug\Lottery.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Lottery\Lottery\obj\Debug\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Lottery\Lottery\obj\Debug\Lottery.pdb

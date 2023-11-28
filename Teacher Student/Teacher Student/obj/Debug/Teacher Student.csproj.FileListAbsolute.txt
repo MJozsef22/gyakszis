@@ -1,0 +1,7 @@
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Teacher Student\Teacher Student\bin\Debug\Teacher Student.exe.config
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Teacher Student\Teacher Student\bin\Debug\Teacher Student.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Teacher Student\Teacher Student\bin\Debug\Teacher Student.pdb
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Teacher Student\Teacher Student\obj\Debug\Teacher Student.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Teacher Student\Teacher Student\obj\Debug\Teacher Student.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Teacher Student\Teacher Student\obj\Debug\Teacher Student.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Teacher Student\Teacher Student\obj\Debug\Teacher Student.pdb

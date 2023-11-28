@@ -1,0 +1,7 @@
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Pirates of the Carabien\Pirates of the Carabien\obj\Debug\Pirates of the Carabien.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Pirates of the Carabien\Pirates of the Carabien\obj\Debug\Pirates of the Carabien.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Pirates of the Carabien\Pirates of the Carabien\bin\Debug\Pirates of the Carabien.exe.config
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Pirates of the Carabien\Pirates of the Carabien\bin\Debug\Pirates of the Carabien.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Pirates of the Carabien\Pirates of the Carabien\bin\Debug\Pirates of the Carabien.pdb
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Pirates of the Carabien\Pirates of the Carabien\obj\Debug\Pirates of the Carabien.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Pirates of the Carabien\Pirates of the Carabien\obj\Debug\Pirates of the Carabien.pdb

@@ -1,0 +1,7 @@
+C:\Users\Diák\Desktop\Michnay József\gyakszis\AirCraft Carrier\AirCraft Carrier\obj\Debug\AirCraft Carrier.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\AirCraft Carrier\AirCraft Carrier\obj\Debug\AirCraft Carrier.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\AirCraft Carrier\AirCraft Carrier\bin\Debug\AirCraft Carrier.exe.config
+C:\Users\Diák\Desktop\Michnay József\gyakszis\AirCraft Carrier\AirCraft Carrier\bin\Debug\AirCraft Carrier.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\AirCraft Carrier\AirCraft Carrier\bin\Debug\AirCraft Carrier.pdb
+C:\Users\Diák\Desktop\Michnay József\gyakszis\AirCraft Carrier\AirCraft Carrier\obj\Debug\AirCraft Carrier.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\AirCraft Carrier\AirCraft Carrier\obj\Debug\AirCraft Carrier.pdb

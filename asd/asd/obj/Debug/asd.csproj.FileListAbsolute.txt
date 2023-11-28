@@ -1,0 +1,7 @@
+C:\Users\Diák\Desktop\Michnay József\gyakszis\asd\asd\bin\Debug\asd.exe.config
+C:\Users\Diák\Desktop\Michnay József\gyakszis\asd\asd\bin\Debug\asd.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\asd\asd\bin\Debug\asd.pdb
+C:\Users\Diák\Desktop\Michnay József\gyakszis\asd\asd\obj\Debug\asd.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\asd\asd\obj\Debug\asd.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\asd\asd\obj\Debug\asd.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\asd\asd\obj\Debug\asd.pdb

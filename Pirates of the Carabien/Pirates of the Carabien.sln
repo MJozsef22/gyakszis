@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pirates of the Carabien", "Pirates of the Carabien\Pirates of the Carabien.csproj", "{8B3D4726-F75F-477F-B91B-239AE0EDD015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B3D4726-F75F-477F-B91B-239AE0EDD015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3D4726-F75F-477F-B91B-239AE0EDD015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3D4726-F75F-477F-B91B-239AE0EDD015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3D4726-F75F-477F-B91B-239AE0EDD015}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59396C9D-A5A3-492E-A418-247BF45B937F}
+	EndGlobalSection
+EndGlobal

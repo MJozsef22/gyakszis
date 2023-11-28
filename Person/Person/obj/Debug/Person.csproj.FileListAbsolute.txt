@@ -1,0 +1,7 @@
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Person\Person\bin\Debug\Person.exe.config
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Person\Person\bin\Debug\Person.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Person\Person\bin\Debug\Person.pdb
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Person\Person\obj\Debug\Person.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Person\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Person\Person\obj\Debug\Person.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Person\Person\obj\Debug\Person.pdb

@@ -1,0 +1,7 @@
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Foodshop\Foodshop\bin\Debug\Foodshop.exe.config
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Foodshop\Foodshop\bin\Debug\Foodshop.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Foodshop\Foodshop\bin\Debug\Foodshop.pdb
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Foodshop\Foodshop\obj\Debug\Foodshop.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Foodshop\Foodshop\obj\Debug\Foodshop.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Foodshop\Foodshop\obj\Debug\Foodshop.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\Foodshop\Foodshop\obj\Debug\Foodshop.pdb
