@@ -1,0 +1,7 @@
+C:\Users\Diák\Desktop\Michnay József\gyakszis\CarRent_MJ\CarRent_MJ\bin\Debug\CarRent_MJ.exe.config
+C:\Users\Diák\Desktop\Michnay József\gyakszis\CarRent_MJ\CarRent_MJ\bin\Debug\CarRent_MJ.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\CarRent_MJ\CarRent_MJ\bin\Debug\CarRent_MJ.pdb
+C:\Users\Diák\Desktop\Michnay József\gyakszis\CarRent_MJ\CarRent_MJ\obj\Debug\CarRent_MJ.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\CarRent_MJ\CarRent_MJ\obj\Debug\CarRent_MJ.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\Michnay József\gyakszis\CarRent_MJ\CarRent_MJ\obj\Debug\CarRent_MJ.exe
+C:\Users\Diák\Desktop\Michnay József\gyakszis\CarRent_MJ\CarRent_MJ\obj\Debug\CarRent_MJ.pdb
